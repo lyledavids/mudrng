@@ -1,1 +1,4 @@
-# mudrng
+# MUDRNG
+
+Random Number Generator 
+```
